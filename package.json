@@ -1,6 +1,6 @@
 {
     "name": "@devoplx/nodecraft-engine",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "NodeCraft Engine, a revolutionary game development framework tailored for Node.js and TypeScript, redefines the landscape by seamlessly managing player data, inventory, AI, and more. This advanced engine empowers developers to craft immersive gaming experiences without the hassle of intricate backend logistics.",
     "main": "dist/index.js",
     "module": "dist/index.mjs",
@@ -47,9 +47,7 @@
         "url": "https://github.com/devoplx/NodeCraft-Engine/issues"
     },
     "homepage": "https://github.com/devoplx/NodeCraft-Engine#readme",
-    "dependencies": {
-
-    },
+    "dependencies": {},
     "devDependencies": {
         "@typescript-eslint/eslint-plugin": "^6.12.0",
         "@typescript-eslint/parser": "^6.12.0",
