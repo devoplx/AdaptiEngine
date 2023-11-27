@@ -1,2 +1,3 @@
-# NodeCraft-Engine
-NodeCraft Engine, a revolutionary game development framework tailored for Node.js and TypeScript, redefines the landscape by seamlessly managing player data, inventory, AI, and more. This advanced engine empowers developers to craft immersive gaming experiences without the hassle of intricate backend logistics.
+readme coming soon using 
+https://readme.shaankhan.dev/
+https://socialify.git.ci/devoplx/fastify-essentials?description=1&font=KoHo&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Dark
